@@ -28,5 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![bandicam 2023-05-12 02-09-43-853](https://github.com/Manar-sayed/MovieApp/assets/99843313/5f5194cf-7311-419d-8f18-a3ba4f03fa02)
 ![bandicam 2023-05-12 02-09-55-675](https://github.com/Manar-sayed/MovieApp/assets/99843313/b82b964f-b0d1-493b-8cfc-068013937996)
 ![bandicam 2023-05-12 02-10-11-460](https://github.com/Manar-sayed/MovieApp/assets/99843313/0e66fa74-cd2e-47ec-8499-155884a18def)
-![bandicam 2023-05-12 02-11-27-074](https://github.com/Manar-sayed/MovieApp/assets/99843313/a1271000-7bd3-47c3-83cc-3711b442bfaa)
+![bandicam 2023-05-12 02-11-27-074](https://github.com/Manar-sayed/MovieApp/assets/99843313/97af81c1-8764-4f44-b508-825b814cec82)
+![bandicam 2023-05-12 02-11-51-807](https://github.com/Manar-sayed/MovieApp/assets/99843313/a1c1a1f1-f0dd-4096-ac23-1d51c095faa5)
 
