@@ -1,0 +1,15 @@
+.navbar .navbar-brand{
+    color: rgb(255, 174, 0);
+   
+    font-family: 'Monoton', cursive;
+
+    /* font-family: 'Tilt Prism', cursive; */
+
+}
+.navbar-nav .nav-item .nav-link
+{
+    /* color: #E50914; */
+    color: rgb(255, 174, 0);
+
+
+}

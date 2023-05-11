@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+h1{
+    color: aliceblue;
+    font-weight: bold;
+}
+p{
+    color: aliceblue;
+}
+a{
+    background-color:  rgb(255, 174, 0);
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover{
+    border: 1px solid rgb(255, 174, 0);
+    color: rgb(255, 174, 0);
+
+}

@@ -1,0 +1,21 @@
+button
+{
+    width: 20%;
+    background-color: rgb(255, 174, 0);
+    color: #ffffff;
+}
+
+button:hover
+{
+    border: 1px solid rgb(255, 174, 0);
+    color:rgb(255, 174, 0);
+}
+img{
+    width: 100%;
+    cursor: pointer;
+}
+
+h5
+{
+    color: #efebd8;
+}
